@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "name": "Sid",
+    "age": "3 anos",
+    "personality": "Muito brincalhão",
+    "state": "São Paulo",
+    "phone": "+55 38 99003-8925",
+    "mail": "gunelhuseynova@gmailni.com",
+    "image": "https://trello.com/1/cards/62c8193b314f2a86a015b8cd/attachments/62c8193b314f2a86a015b932/previews/62c8193b314f2a86a015b939/download/Animais_-_Sid.png"
+  },
+  {
+    "id": 1,
+    "name": "Lua",
+    "age": "1 ano",
+    "personality": "Quietinha, carente e muito fofa!",
+    "state": "Minas Gerais",
+    "phone": "+55 99 7000-4773",
+    "mail": "rangbazbikers@mitakian.com",
+    "image": "https://trello.com/1/cards/62c8193b314f2a86a015b8cd/attachments/62c8193b314f2a86a015b929/previews/62c8193b314f2a86a015b930/download/Animais_-_Lua.png"
+  },
+  {
+    "id": 2,
+    "name": "Fiona",
+    "age": "4 anos",
+    "personality": "Agitada, as vezes nervosa, e gosta de brincar",
+    "state": "Rio de Janeiro",
+    "phone": "+55 88 92227-3914",
+    "mail": "phaelsky@nproxi.com",
+    "image": "https://trello.com/1/cards/62c8193b314f2a86a015b8cd/attachments/62c8193b314f2a86a015b920/previews/62c8193b314f2a86a015b927/download/Animais_-_Fiona.png"
+  },
+  {
+    "id": 3,
+    "name": "Felícia",
+    "age": "2 anos",
+    "personality": "Quieta, tímida e extremamente carente",
+    "state": "Mato Grosso",
+    "phone": "+55 75 7947-6535",
+    "mail": "tramixesix@shurkou.com",
+    "image": "https://trello.com/1/cards/62c8193b314f2a86a015b8cd/attachments/62c8193b314f2a86a015b917/previews/62c8193b314f2a86a015b91e/download/Animais_-_Fel%C3%ADcia.png"
+  },
+  {
+    "id": 4,
+    "name": "Dunga",
+    "age": "2 anos",
+    "personality": "Divertido, gosta de sair e comer bastante",
+    "state": "Seará",
+    "phone": "+55 86 93878-8542",
+    "mail": "hotom1987@pianoxltd.com",
+    "image": "https://trello.com/1/cards/62c8193b314f2a86a015b8cd/attachments/62c8193b314f2a86a015b90e/previews/62c8193b314f2a86a015b915/download/Animais_-_Dunga.png"
+  },
+  {
+    "id": 5,
+    "name": "Amora",
+    "age": "1 ano",
+    "personality": "Calada, e as vezes cansada, mas ainda sim muito divertida",
+    "state": "Bahia",
+    "phone": "+55 21 97392-6012",
+    "mail": "jfreedman13@fernet89.com",
+    "image": "https://trello.com/1/cards/62c8193b314f2a86a015b8cd/attachments/62c8193b314f2a86a015b905/previews/62c8193b314f2a86a015b90c/download/Animais_-_Amora.png"
+  },
+  {
+    "id": 6,
+    "name": "Zelda",
+    "age": "3 anos",
+    "personality": "Gosta de fazer bagunça, mas um pet muito amigável",
+    "state": "Sergipe",
+    "phone": "+55 64 96384-3147",
+    "mail": "pissedcow@shurkou.com",
+    "image": "https://trello.com/1/cards/62c8193b314f2a86a015b8cd/attachments/62c8193b314f2a86a015b8fc/previews/62c8193b314f2a86a015b903/download/Animais_-_Zelda.png"
+  },
+  {
+    "id": 7,
+    "name": "Yoda",
+    "age": "2 anos",
+    "personality": "Neutra, porém calma e paciente",
+    "state": "São Paulo",
+    "phone": "+55 34 7753-1848",
+    "mail": "tankdudea2@disipulo.com",
+    "image": "https://trello.com/1/cards/62c8193b314f2a86a015b8cd/attachments/62c8193b314f2a86a015b8f3/previews/62c8193b314f2a86a015b8fa/download/Animais_-_Yoda.png"
+  },
+  {
+    "id": 8,
+    "name": "Sirius",
+    "age": "5 anos",
+    "personality": "Alegre e gosta de agitação",
+    "state": "Rondônia",
+    "phone": "+55 32 95690-0141",
+    "mail": "zenjaspiridonov@omdiaco.com",
+    "image": "https://trello.com/1/cards/62c8193b314f2a86a015b8cd/attachments/62c8193b314f2a86a015b8ea/previews/62c8193b314f2a86a015b8f1/download/Animais_-_Sirius.png"
+  }
+]

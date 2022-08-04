@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Kantumruy+Pro:wght@100;200;300;400;500;600;700&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+:root {
+  --poppins: "Poppins";
+  --kantumruy: "Kantumruy";
+
+  /* Background colors */
+  --bg_primary: #20e796;
+  --bg_secondary: #1d8cca;
+  --bg_terciary: #fff;
+  /* Font colors */
+  --f_primary: #f2f4f5;
+  --f_secondary: #bababa;
+  --f_terciary: #2a2a2a;
+  /* Other colors */
+  --first: #ee8a10;
+  --second: #a5c9ce;
+  --link: #ff6521;
+  --disabled: #c3c3c7;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--poppins), var(--kantumruy);
+}
+
+body {
+  min-height: 100vh;
+  background: linear-gradient(0deg, var(--bg_primary), var(--bg_secondary));
+}
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: var(--f_primary);
+  letter-spacing: 1px;
+  margin: 0.3em;
+}
+
+p {
+  color: var(--f_secondary);
+}
+
+span {
+  font-weight: 700;
+  color: var(--f_terciary);
+}
+
+form {
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 1em;
+  margin: 1em;
+  border-radius: 8px;
+  box-shadow: 0 0 10px 2px var(--second), inset 0 0 10px 5px var(--second);
+}
+
+label {
+  color: var(--f_secondary);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+input {
+  max-width: 100%;
+  border: none;
+  padding: 0.4em 0.3em;
+  margin: 0.2em 0;
+  border-radius: 5px;
+  color: #222;
+  outline: none;
+}
+
+input:disabled {
+  background-color: var(--second);
+}
+
+textarea {
+  outline: none;
+  border-radius: 10px;
+  padding: 0.5em;
+  border: none;
+  width: 150px;
+  height: 100px;
+  max-width: 200px;
+  max-height: 250px;
+  color: #222;
+}
